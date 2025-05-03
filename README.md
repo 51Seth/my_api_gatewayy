@@ -41,6 +41,7 @@ Rate Limiter:
 
 
 Gateway Logs: 
-![image](https://github.com/user-attachments/assets/c7f0aa5d-ed84-4b28-a38d-7782dcb85f1a)
+![image](https://github.com/user-attachments/assets/29eff3de-875b-450a-bb83-efe63c269eae)
+
 
 
